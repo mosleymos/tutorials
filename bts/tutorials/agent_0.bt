@@ -42,6 +42,26 @@
               "label": ""
             },
             "properties": {
+              "op1": {
+                "type": "entityKnowledge",
+                "value": "answer"
+              },
+              "op2": {
+                "type": "string",
+                "value": "true"
+              },
+              "op": "!="
+            },
+            "children": [],
+            "id": "55fa9735-17a4-42f5-bba4-91a1453f784e",
+            "type": "condition"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
               "name": "Prompt",
               "inputParams": [
                 {
